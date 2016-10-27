@@ -1,0 +1,9 @@
+[submodule "lib/yaply"]
+	path = lib/yaply
+	url = https://github.com/alexlocher/yaply.git
+[submodule "lib/hpmvs"]
+	path = lib/hpmvs
+	url = https://github.com/alexlocher/hpmvs.git
+[submodule "lib/Sophus"]
+	path = lib/Sophus
+	url = https://github.com/strasdat/Sophus
