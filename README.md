@@ -11,7 +11,7 @@ changes in internal and external camera calibration.
 
 #### Input and Output of the algorithm
 <img src="http://www.vision.ee.ethz.ch/~alocher/pdf/3dv16/overview.png" 
-alt="PATW - Input / Output" width="80%" border="10" />
+alt="PATW - Input / Output" width="50%" border="10" />
 
 
 ## Related Publication
@@ -33,7 +33,7 @@ If you use the algortihm in your academic work, please cite:
      }
 
 # Disclaimer
-The software is research code and should not be taken as an example for good coding style ;)
+The software is research code and should not be taken as an example for good coding style ;-)
 
 
 # Build and Install
