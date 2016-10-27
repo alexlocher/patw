@@ -49,6 +49,7 @@ If you don't have the dependencies installed yet, you can try to execute the
 
 ```
 git clone https://github.com/alexlocher/patw
+git submodule update
 cd patw
 # optinally install dependencies
 ./install_deps.sh
