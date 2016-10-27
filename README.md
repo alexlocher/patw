@@ -15,8 +15,9 @@ alt="PATW - Input / Output" width="50%" border="10" />
 
 
 ## Related Publication
-[1] Alex Locher, Michal Havlena and Luc Van Gool. Progressive 3D Modeling All the Way. *3DV 2016*. 
-[2] Alex Locher, Michal Perdoch and Luc Van Gool. Progressive prioritized multi-view stereo. *CVPR 2016*. 
+[1] Alex Locher, Michal Havlena and Luc Van Gool. Progressive 3D Modeling All the Way. *3DV 2016*. [pdf](http://people.ee.ethz.ch/~alocher/pdf/locher_3dv16_progressive_all_the_way.pdf)
+
+[2] Alex Locher, Michal Perdoch and Luc Van Gool. Progressive prioritized multi-view stereo. *CVPR 2016*. [pdf](http://people.ee.ethz.ch/~alocher/pdf/locher_cvpr16_progressive_prioritized_mvs.pdf)
 
 
 # Licence
